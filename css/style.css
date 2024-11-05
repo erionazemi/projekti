@@ -17,4 +17,6 @@ body {
 footer {
     background-color: yellowgreen;
     justify-content: end;
+    position: fixed;
+    
 }
