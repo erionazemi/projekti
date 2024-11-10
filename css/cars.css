@@ -54,9 +54,31 @@ body {
     align-items: center;
 }
 
-.car .text h4{
+.car .picture {
+    display: flex;
+}
+
+.car .picture .text {
     padding: auto;
-    border: 2px solid orange;
+    border: 2px solid antiquewhite;
+    font-size: 25px;
+    margin:7px 12px;
+}
+
+button {
+    padding: 12px;
+    margin-top: 20px;
+    font-size: 16px;
+    background-color: rgba(179, 190, 79, 0.74);
+    color: black;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: wheat;
 }
 
 footer {

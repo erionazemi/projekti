@@ -54,7 +54,7 @@ main {
 }
 
 .contact-form-container {
-    background-color: antiquewhite;
+    background-color: wheat;
     padding: 40px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 100%;
@@ -84,6 +84,7 @@ input, textarea {
     padding: 10px;
     font-size: 16px;
     border: 1px solid #ccc;
+    background-color: antiquewhite;
     border-radius: 4px;
     margin-bottom: 20px;
 }
