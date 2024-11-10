@@ -54,6 +54,11 @@ body {
     align-items: center;
 }
 
+.car .text h4{
+    padding: auto;
+    border: 2px solid orange;
+}
+
 footer {
     background-color: orange;
     justify-content: center;
