@@ -6,7 +6,7 @@ header {
 header h2 {
     text-align: center;
     color: white;
-    margin-left: 500px;
+    margin-left: 30px;
 }
 
 nav ul {
@@ -17,7 +17,7 @@ nav ul {
 nav ul li {
     display: inline;
     margin: 0 15px;
-    margin-left: 150px;
+    margin-left: 30px;
 }
 
 nav ul li a {
@@ -27,7 +27,7 @@ nav ul li a {
 
 
 body {
-    background-image: url(../img/home.jpg);
+    background-image: url(../img/home2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
@@ -35,13 +35,16 @@ body {
     padding: 0;
 }
 
-/* * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body {
+main {
+    background-image: url(../img/home2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f4f7f6;
     display: flex;
@@ -51,7 +54,7 @@ body {
 }
 
 .contact-form-container {
-    background-color: #fff;
+    background-color: antiquewhite;
     padding: 40px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 100%;
@@ -107,10 +110,10 @@ button:hover {
 
 button:focus {
     outline: none;
-} */
+} 
 
 footer {
-    background-color: red;
+    background-color: orange;
     justify-content: end;
     text-align: center;
     padding: 5px;
