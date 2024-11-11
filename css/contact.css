@@ -15,16 +15,16 @@ nav ul {
 }
 
 nav ul li {
-    display: inline;
+    display: inline-block;
     margin: 0 15px;
-    margin-left: 30px;
+    padding: 15px;
 }
 
 nav ul li a {
     color: white;
     text-decoration: none;
+    font-weight: bold;
 }
-
 
 body {
     background-image: url(../img/home2.jpg);
